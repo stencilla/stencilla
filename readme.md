@@ -1,5 +1,5 @@
 # Stencilla
 
-(Work in progress!) Boilerplate for preact + hooks + custom-elements projects using a create-react-app typescript template overridden with customize-cra.
+Boilerplate for preact + hooks + custom-elements projects using a create-react-app typescript template overridden with customize-cra.
 
 Demo: https://stencilla.netlify.app/
