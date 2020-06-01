@@ -1,0 +1,9 @@
+{
+  "extends": "react-app",
+  "settings": {
+    "react": {
+      "pragma": "h",
+      "version": "16.0"
+    }
+  }
+}
