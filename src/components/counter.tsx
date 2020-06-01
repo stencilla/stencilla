@@ -1,5 +1,6 @@
 import { h } from "preact";
 import { useState } from "preact/hooks";
+// @ts-ignore
 import register from "preact-custom-element";
 
 interface CounterProps {

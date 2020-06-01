@@ -7,4 +7,5 @@ declare module "preact/src/jsx" {
     }
   }
 }
+
 export {};

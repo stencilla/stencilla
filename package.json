@@ -1,7 +1,7 @@
 {
-  "name": "preact-ts-boilerplate",
-  "version": "1.0.0",
-  "description": "",
+  "name": "stencilla",
+  "version": "0.0.1",
+  "description": "(Work in progress) Boilerplate for preact projects using a create-react-app typescript template overridden with customize-cra",
   "keywords": [],
   "main": "src/index.tsx",
   "dependencies": {
@@ -25,5 +25,10 @@
     "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
-  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
 }
