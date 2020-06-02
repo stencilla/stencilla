@@ -9,7 +9,6 @@ Boilerplate for preact + hooks + custom-elements projects using a create-react-a
 - [x] Demonstrate how to use components as ES modules and custom elements
 - [ ] Add CSS modules, Jest, Storybook examples
 - [ ] Allow easy scaffolding of components via a cli
-- [ ] Allow easy publishing of components on npm
-- [ ] Published components can be imported as ES modules or declared as custom elements in a range of FE scenarios
+- [ ] Components published to npm can be imported as ES modules or declared as custom elements in a range of FE scenarios
 
 Demo: https://stencilla.netlify.app/
