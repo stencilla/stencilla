@@ -5,8 +5,10 @@ import "./styles.css";
 export default function App() {
   return (
     <div>
-      <Counter start="5" />
-      <my-counter start="10" />
+      <h2>Preact Component</h2>
+      <Counter start="1" />
+      <h2>Custom Element</h2>
+      <my-counter start="1" />
     </div>
   );
 }
